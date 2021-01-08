@@ -22,7 +22,7 @@ nav ul {
 	height: 220px;
     width: auto;
     margin: 0 auto;
-    background-image: url(c9/c9-background.jpg);
+    background-image: url(c9-background.jpg);
     background-repeat: no-repeat;
 	background-size: cover;
    	display: flex;
@@ -137,7 +137,7 @@ p {
   	height: 420px;
     width: auto;
     margin: 0 auto;
-    background-image: url(c9/c9-background.jpg);
+    background-image: url(c9-background.jpg);
 	background-repeat: no-repeat;
 	background-position: 20% 10%;
 	background-size: 90;
@@ -163,7 +163,7 @@ p {
 }
 
 
-/* this is the text formatting for the players individual bios text - will rename later */
+/* this is the text formatting for the players individual bios text */
 .top-text {
     grid-column: auto;
 }
@@ -192,7 +192,7 @@ p {
   	height: 550px;
     width: auto;
     margin: 0 auto;
-    background-image: url(c9/c9-background.jpg);
+    background-image: url(c9-background.jpg);
 	background-repeat: no-repeat;
 	background-position: 20% 10%;
 	background-size: 90;

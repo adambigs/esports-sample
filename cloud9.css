@@ -19,14 +19,14 @@ nav ul {
 
 /* hero and header */
 .hero {
-	height: 220px;
+    height: 220px;
     width: auto;
     margin: 0 auto;
     background-image: url(c9-background.jpg);
     background-repeat: no-repeat;
-	background-size: cover;
-   	display: flex;
-	justify-content: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
